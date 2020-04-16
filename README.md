@@ -8,6 +8,8 @@ This project was an introduction to Redux, and the task was to build a quiz game
 
 We decided to go with mob programming since it was a new concept and to let everyone get a basic understanding of what was going on. We spent some time on planning or quiz theme and defining which components we would use and what their functions would be. 
 
-A Redux store was pre-defined in the project and also a reducer with a few actions to control the quiz. We worked on using the state to render the quiz questions one at a time, showing the question itself and also the possible answers. The user needs to click an answer before continuing on to the next question.
+A Redux store was pre-defined in the project and also a reducer with a few actions to control the quiz. We worked on using the state to render the quiz questions one at a time, showing the question itself and also the possible answers. The user needs to click an answer before continuing on to the next question. A result page is showing the number of correct answers.
 
 ## Live link
+
+https://elephants-redux-flag-quiz-lisah.netlify.app/
